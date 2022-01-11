@@ -1,0 +1,21 @@
+.search{
+    display: flex;
+    justify-content: center;
+    margin: 15px 0px
+}
+
+.label{
+    font-weight: bold;
+    font-size: large;
+    background-color: #494949;
+    color: #FF00B2;
+    padding: 1px 15px;
+    margin: 0px;
+}
+
+.input{
+    text-align: center;
+    padding: 0px;
+    font-weight: bold;
+    margin: 0px;
+}
